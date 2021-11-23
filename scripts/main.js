@@ -1,5 +1,5 @@
 let point = 0;
-let ANSWER = ['fail', 'wake up', 'there is', 'so', 'hands', 'change', 'was', 'if', 'starts', 'so', 'hands', 'change', 'that', 'second', 'live', 'hands', 'upside', 'hands', 'change']
+let ANSWER = ['fail', 'wake up', 'there is', 'so', 'hands', 'change', 'was', 'if', 'starts', 'so', 'hands', 'change', 'that', 'second', 'second', 'live', 'hands', 'upside', 'hands', 'change']
 
 function getAnswer() {
     /* 
